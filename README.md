@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @pingski0476
 - 👀 I’m interested in Cybersecurity, Web Development
-- 🌱 I’m currently learning ReactJS & Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ReactJS, NextJS & Django
 
 <!---
 pingski0476/pingski0476 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
