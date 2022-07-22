@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pingski0476
+- 👋 Hi, I’m Afrillian Ramadhan
 - 👀 I’m interested in Cybersecurity, Web Development
 - 🌱 I’m currently learning ReactJS, NextJS & Django
 
